@@ -1,9 +1,15 @@
-# »ù±¾Çéˆó¼¼ĞgÕß Ô‡òY?ÍÁ•¥Î©`¥È£¨Jupyter£©
+# åŸºæœ¬æƒ…å ±æŠ€è¡“è€… è©¦é¨“ãƒ»å¾©ç¿’ãƒãƒ¼ãƒˆï¼ˆJupyterï¼‰
 
-Ö»¶Á²é¿´ÓÃ **nbviewer**£»ĞèÒªÔËĞĞÓÃ **Open in Colab**£¨»áÔÚÄã×Ô¼ºµÄ Drive ´æ¸±±¾£¬²»»á¸Ä¶¯±¾²Ö¿â£©¡£
+åªè¯»æŸ¥çœ‹ç”¨ **nbviewer**ï¼›éœ€è¦è¿è¡Œç”¨ **Open in Colab**ï¼ˆä¼šåœ¨ä½ è‡ªå·±çš„ Drive å­˜å‰¯æœ¬ï¼Œä¸ä¼šæ”¹åŠ¨æœ¬ä»“åº“ï¼‰ã€‚
 
-| ÕÂ | nbviewer£¨Ö»¶Á£© | Open in Colab£¨¿ÉÔËĞĞ£© | Binder£¨¿ÉÔËĞĞ£¬¿ÉÑ¡£© |
-|---|---|---|---|
-| µÚ1ÕÂ Õ“Àí»ùµA | [nbviewer](https://nbviewer.org/github/0fluffypig0/Notes-FE/blob/main/01_Õ“Àí»ùµA_.ipynb) | [Colab](https://colab.research.google.com/github/0fluffypig0/Notes-FE/blob/main/01_Õ“Àí»ùµA_.ipynb) | [Binder](https://mybinder.org/v2/gh/0fluffypig0/Notes-FE/main?labpath=01_%E8%AB%96%E7%90%86%E5%9F%BA%E7%A4%8E_.ipynb) |
-| µÚ2ÕÂ ¥¢¥ë¥´¥ê¥º¥à¤È¥×¥í¥°¥é¥ß¥ó¥° | [nbviewer](https://nbviewer.org/github/0fluffypig0/Notes-FE/blob/main/02_¥¢¥ë¥´¥ê¥º¥à¤È¥×¥í¥°¥é¥ß¥ó¥°.ipynb) | [Colab](https://colab.research.google.com/github/0fluffypig0/Notes-FE/blob/main/02_¥¢¥ë¥´¥ê¥º¥à¤È¥×¥í¥°¥é¥ß¥ó¥°.ipynb) | [Binder](https://mybinder.org/v2/gh/0fluffypig0/Notes-FE/main?labpath=02_%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0.ipynb) |
-| µÚ3ÕÂ ¥³¥ó¥Ô¥å©`¥¿¤Î˜‹³ÉÒªËØ | [nbviewer](https://nbviewer.org/github/0fluffypig0/Notes-FE/blob/main/03_¥³¥ó¥Ô¥å©`¥¿¤Î˜‹³ÉÒªËØ.ipynb) | [Colab](https://colab.research.google.com/github/0fluffypig0/Notes-FE/blob/main/03_¥³¥ó¥Ô¥å©`¥¿¤Î˜‹³ÉÒªËØ.ipynb) | [Binder](https://mybinder.org/v2/gh/0fluffypig0/Notes-FE/main?labpath=03_%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%AE%E6%A7%8B%E6%88%90%E8%A6%81%E7%B4%A0.ipynb) |
+| ç«  | nbviewerï¼ˆåªè¯»ï¼‰ | Open in Colabï¼ˆå¯è¿è¡Œï¼‰ |
+|---|---|---|
+| ç¬¬1ç«  è«–ç†åŸºç¤ | [nbviewer](https://nbviewer.org/github/0fluffypig0/Notes-FE/blob/main/01_è«–ç†åŸºç¤_.ipynb) | [Colab](https://colab.research.google.com/github/0fluffypig0/Notes-FE/blob/main/01_è«–ç†åŸºç¤_.ipynb) |
+| ç¬¬2ç«  ã‚¢ãƒ«ã‚´ãƒªã‚ºãƒ ã¨ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚° | [nbviewer](https://nbviewer.org/github/0fluffypig0/Notes-FE/blob/main/02_ã‚¢ãƒ«ã‚´ãƒªã‚ºãƒ ã¨ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°.ipynb) | [Colab](https://colab.research.google.com/github/0fluffypig0/Notes-FE/blob/main/02_ã‚¢ãƒ«ã‚´ãƒªã‚ºãƒ ã¨ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°.ipynb) |
+| ç¬¬3ç«  ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã®æ§‹æˆè¦ç´  | [nbviewer](https://nbviewer.org/github/0fluffypig0/Notes-FE/blob/main/03_ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã®æ§‹æˆè¦ç´ .ipynb) | [Colab](https://colab.research.google.com/github/0fluffypig0/Notes-FE/blob/main/03_ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã®æ§‹æˆè¦ç´ .ipynb) |
+
+---
+
+## å¿«æ·å…¥å£
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/0fluffypig0/Notes-FE/blob/main/01_è«–ç†åŸºç¤_.ipynb)
